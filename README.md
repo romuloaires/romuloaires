@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/romulo-aires-b91a0570/"><i>Romulo Aires</i></a> 😃️</h1>
+  <h1 align="center">Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/romulo-aires-b91a0570/"><i>Romulo Aires</i></a> 🧑🏽‍💻</h1>
   <p align="center">Possuo graduação em Ciência da Computação pela Faculdade Pitágoras (MA). Sou Pós-Graduado em Business Intelligence, Big Data e Analytics - Ciência de dados. E atualmente estou cursando Mestrado em Ciência da Computação pela UFMA. 
     E depois dessa breve jornanda estou aqui atualizando os commit com os projetos que já participei e ainda estou participando....
 
